@@ -1,0 +1,78 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js
+
+PATH: 
+  /Users/riccardofreschi/bin/:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/texbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  4.4.1
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+      "title": "Agency",
+      "name": "startbootstrap-agency",
+      "version": "4.1.1",
+      "description": "Agency is a one page HTML theme for Bootstrap.",
+      "keywords": [
+          "css",
+          "sass",
+          "html",
+          "responsive",
+          "theme",
+          "template"
+      ],
+      "homepage": "https://startbootstrap.com/template-overviews/agency",
+      "bugs": {
+          "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
+          "email": "feedback@startbootstrap.com"
+      },
+      "license": "MIT",
+      "author": "Start Bootstrap",
+      "contributors": [
+          "David Miller (http://davidmiller.io/)"
+      ],
+      "repository": {
+          "type": "git",
+          "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+      },
+      "dependencies": {
+          "bootstrap": "4.1.1",
+          "font-awesome": "4.7.0",
+          "jquery": "3.3.1",
+          "jquery.easing": "^1.4.1"
+      },
+      "devDependencies": {
+          "browser-sync": "2.24.3",
+          "gulp": "^3.9.1",
+          "gulp-clean-css": "3.9.4",
+          "gulp-header": "2.0.5",
+          "gulp-rename": "^1.2.2",
+          "gulp-sass": "4.0.1",
+          "gulp-uglify": "3.0.0"
+      }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Found incompatible module
+      at MessageError.Error (native)
+      at new MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
+      at checkOne (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:62444:11)
+      at Object.check (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:62463:5)
+      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:22803:73
+      at next (native)
+      at step (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:98:30)
+      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:109:13
+      at run (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:100334:22)
+      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:100347:28

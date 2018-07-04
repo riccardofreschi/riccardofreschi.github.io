@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="290px" viewBox="0 0 320 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="15.5811543%" x2="50%" y2="90.630979%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M230,175 L230,223 L220,223 L220,175 L109,175 L109,165 L230,165 L230,175 Z M289,197 L289,275.5 L279,275.5 L279,197 L279,187 L289,187 L410,187 L410,197 L289,197 Z M270,175 L270,193 L260,193 L260,175 L260,165 L410,165 L410,175 L270,175 Z M211,197 L211,277 L201,277 L201,197 L90,197 L90,187 L211,187 L211,197 Z M250,155 L250,255 L240,255 L240,155 L195,155 L195,145 L295,145 L295,155 L250,155 Z M310,145 L410,145 L410,155 L310,155 L310,145 Z M140,125 L240,125 L240,135 L140,135 L140,125 Z M95,125 L109,125 L109,135 L95,135 L95,125 Z M130,145 L180,145 L180,155 L130,155 L130,145 Z M271,125 L371,125 L371,135 L271,135 L271,125 Z M195,105 L345,105 L345,115 L195,115 L195,105 Z M95,105 L180,105 L180,115 L95,115 L95,105 Z M360,105 L410,105 L410,115 L360,115 L360,105 Z M270,205 L270,275 L260,275 L260,205 L270,205 Z M271,288 L271,343 L261,343 L261,288 L271,288 Z M230,288 L230,343 L220,343 L220,288 L230,288 Z M211,294.5 L211,394.5 L201,394.5 L201,294.5 L211,294.5 Z M289,294.5 L289,394.5 L279,394.5 L279,294.5 L289,294.5 Z M271,355 L271,394.25 L261,394.25 L261,355 L271,355 Z M230,234 L230,279 L220,279 L220,234 L230,234 Z M250,375 L250,394.625 L240,394.625 L240,375 L250,375 Z M230,355 L230,394.25 L220,394.25 L220,355 L230,355 Z M250,267 L250,367 L240,367 L240,267 L250,267 Z" id="path-2"></path>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-90.000000, -105.000000)">
+        <g id="Combined-Shape">
+            <use fill="#24D0DC" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>
